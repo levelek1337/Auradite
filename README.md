@@ -4,7 +4,7 @@
 - all legal info in LEGAL.txt
 
 # Credits
-- used in Pegasus for grabbing token : https://github.com/erfg12/memory.dll
+- used in Auradite for grabbing token : https://github.com/erfg12/memory.dll
 
 # Official Discord Server
 https://discord.gg/S8QAJjJkxz
