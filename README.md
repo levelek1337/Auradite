@@ -18,6 +18,7 @@ https://discord.gg/S8QAJjJkxz
 - ^ including Day One Achievement and other rarest achievements like YouTube
 -  Xbox Party Tool (crash party, unkickable, display to other users your are disconnected or in party chat etc.)
 -  View/Create Looking for Group posts
+-  Search Clubs
 -  Delete All Friends/Posts from Activity Feed
 -  Change/Steal Xbox 360 gamerpics 
 -  Xbox 360 Avatar Stealer
