@@ -28,6 +28,5 @@ https://discord.gg/S8QAJjJkxz
 -  Extract Title ID list from Profile
 -  Delete Shit From Title ID list
 -  Store ID to Title ID converter
--  Halo 5 Ultra White Emblem
 -  other small options
 
