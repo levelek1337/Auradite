@@ -17,7 +17,7 @@ https://discord.gg/S8QAJjJkxz
 -  Spoof Achievements on Activity Feed (custom date and time, spoof its someone else achievement)
 - ^ including Day One Achievement and other rarest achievements like YouTube
 -  Xbox Party Tool (crash party, unkickable, display to other users your are disconnected or in party chat etc.)
--  Looking for Group
+-  View/Create Looking for Group posts
 -  Delete All Friends/Posts from Activity Feed
 -  Change/Steal Xbox 360 gamerpics 
 -  Xbox 360 Avatar Stealer
