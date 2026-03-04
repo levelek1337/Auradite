@@ -247,7 +247,7 @@
 482654991,The Mummy Demastered
 484274489,Hammerwatch
 488156801,GreedFall
-490460723,Arise: A simple story
+490460723,Arise: A Simple Story
 490838306,Fishing Planet
 491421892,The Talos Principle
 491582364,Need for Speed™ Heat
@@ -3389,6 +3389,45 @@
 1803066610,Rally Racers
 1803097553,Once Again
 1803118690,ACA NEOGEO KING OF THE MONSTERS 2 for Windows
+1803141715,Football Manager 2024
+1803193258,Glitch Hero
+1803575237,Rogue Loops
+1803631176,MechWarrior 5: Mercenaries
+1803733345,AAT Test Game 29
+1803898180,Outpost Delta
+1804074878,Tidy Toys
+1804098370,Swimsanity!
+1804163940,Marvel Rivals
+1804278141,Rugby 22 Xbox One
+1804357116,My Fantastic Ranch: Unicorn & Dragons
+1804380765,Potata: fairy flower (Windows)
+1804397214,Possum is Hungry (Xbox Series X/S)
+1804401706,F1® 22 Xbox Series X|S
+1804464387,Missile Command: Recharged
+1804597350,Dolphin Spirit: Ocean Mission
+1804597999,sCATch 2: The Painter Cat
+1804603673,Battle Puzzle 2048 - Wicked Witches
+1804635654,Strategic Mind: Spectre of Communism
+1804795180,Mask of Mists (Xbox Series X|S)
+1804852983,Train Station Renovation
+1804899462,Tools Up - Ultimate Edition
+1804922747,Tux and Fanny
+1804940594,Alpacapaca Dash 2
+1804953387,Genso Chronicles
+1804966091,Forager
+1804974104,The Devil Is In The Details
+1804998414,Let's Sing 2021 Hits Français et Internationaux
+1805003112,Prey
+1805027394,Mekabolt+
+1805105433,Skycadia
+1805134071,FlipCat
+1805166720,Goetia
+1805220190,AlphaLink
+1805284872,Five Nights at Freddy's: Help Wanted 2
+1805288709,Uragun
+1805306795,Fritz - Don't call me a chess bot
+1805345431,くにおくん ザ・ワールド ～いけいけ！ 熱血ホッケー部「すべってころんで大乱闘」～
+1805427680,AXES
 934914890,Vengeance
 1611225628,JDM: Japanese Drift Master
 1611785126,Bus Stop Shuffle Windows
@@ -3514,47 +3553,8 @@
 1800648592,Heroes of Mount Dragon
 1801600178,BucketCrusher
 1802716291,Oakbound Quest (Windows)
-1803141715,Football Manager 2024
-1803193258,Glitch Hero
-1803575237,Rogue Loops
-1803631176,MechWarrior 5: Mercenaries
-1803733345,AAT Test Game 29
-1803898180,Outpost Delta
 1804015757,Pocket Minigolf
-1804074878,Tidy Toys
-1804098370,Swimsanity!
-1804163940,Marvel Rivals
-1804278141,Rugby 22 Xbox One
-1804357116,My Fantastic Ranch: Unicorn & Dragons
-1804380765,Potata: fairy flower (Windows)
-1804397214,Possum is Hungry (Xbox Series X/S)
 1804399586,Square Brothers
-1804401706,F1® 22 Xbox Series X|S
-1804464387,Missile Command: Recharged
-1804597350,Dolphin Spirit: Ocean Mission
-1804597999,sCATch 2: The Painter Cat
-1804603673,Battle Puzzle 2048 - Wicked Witches
-1804635654,Strategic Mind: Spectre of Communism
-1804795180,Mask of Mists (Xbox Series X|S)
-1804852983,Train Station Renovation
-1804899462,Tools Up - Ultimate Edition
-1804922747,Tux and Fanny
-1804940594,Alpacapaca Dash 2
-1804953387,Genso Chronicles
-1804966091,Forager
-1804974104,The Devil Is In The Details
-1804998414,Let's Sing 2021 Hits Français et Internationaux
-1805003112,Prey
-1805027394,Mekabolt+
-1805105433,Skycadia
-1805134071,FlipCat
-1805166720,Goetia
-1805220190,AlphaLink
-1805284872,Five Nights at Freddy's: Help Wanted 2
-1805288709,Uragun
-1805306795,Fritz - Don't call me a chess bot
-1805345431,くにおくん ザ・ワールド ～いけいけ！ 熱血ホッケー部「すべってころんで大乱闘」～
-1805427680,AXES
 1805490295,ReactorX 2
 1805535332,Candy Trail (Windows)
 1805546771,Cat Needs
@@ -3620,7 +3620,7 @@
 1810660315,くにおくん ザ・ワールド ～熱血！ すとりーとバスケット がんばれ DUNK HEROES～
 1810704057,Heal: Console Edition
 1810704602,Bish Bash Bots
-1810724870,Sokmeal Time (Xbox one)
+1810724870,Sokmeal Time (Xbox One)
 1810736784,Galactic Loader (Windows 10)
 1810774943,Hatup
 1810802925,Saturnalia
@@ -5109,7 +5109,7 @@
 1910114469,Deadzone: Rogue
 1910166667,Dragon Lapis
 1910197704,Reverie: Sweet As Edition (PC edition)
-1910350587,New Star GP
+1910350587,New Star™ GP
 1910350664,Quantum Replica
 1910568892,Purpose 1951
 1910615612,Asterix & Obelix Slap Them All!
@@ -6780,6 +6780,84 @@
 2020006421,Candy Trail
 2020032940,HAWKED
 2020046004,Samurai Aces III: Sengoku Cannon
+2020065639,Old Man's Journey
+2020086658,Super Engine GT Turbo SPEC
+2020174486,SEWER QUEST (XBOX SERIES)
+2020174546,Memory Link
+2020175737,Lord of the Click 4 (Xbox One)
+2020176886,Shenmue I & II
+2020192287,Let's Sing 2024
+2020213967,ExZeus: The Complete Collection
+2020422759,The Falconeer
+2020485838,RC Rush
+2020488877,Imagine Earth
+2020500063,TERASLIDE
+2020514432,SBK™22
+2020516215,The Cute Whale (Xbox Series)
+2020561948,Amazing Chicken Adventures
+2020647309,Reposition Defense
+2020732234,Aery - Calm Mind 2
+2020852680,Demon Pit
+2020925056,Grim Dawn: Definitive Edition
+2020925735,Make Way
+2021025006,Slender: The Arrival
+2021058326,Way of the Hunter
+2021059088,Hot Rod Mayhem
+2021123644,Tram Simulator Urban Transit
+2021127339,Gnomes Garden 8: Return of the Queen
+2021132620,Mandragora: Whispers of the Witch Tree
+2021205208,Ancestors Legacy
+2021405472,Nickelodeon Kart Racers 2: Grand Prix
+2021412862,Raft
+2021421406,Green Soldiers Heroes
+2021444410,BPM: Bullets Per Minute
+2021453818,FINAL FANTASY VIII Remastered
+2021467978,Cyanide & Happiness - Freakpocalypse (Episode 1)
+2021629395,Skautfold: Shrouded in Sanity
+2021657763,Nocturnal Whispers
+2021816349,GIGASWORD
+2021825958,RIDE 6
+2021908555,Freshly Frosted
+2021959782,Conan Chop Chop
+2021987250,Downwell
+2022158957,Evasion From Hell
+2022203558,Yuppie Psycho
+2022239352,The Super Penguboy (Windows 10)
+2022302627,Fit and Fry
+2022310556,KreatureKind
+2022315423,Gunsmith Simulator
+2022357971,Monster Energy Supercross - The Official Videogame 4
+2022596914,Avenging Spirit
+2022597828,Garten of Banban 0
+2022727062,oOo: Ascension
+2022775683,Out of Moves
+2023196561,Witch It
+2023314060,FINAL FANTASY XII THE ZODIAC AGE
+2023402980,Achilles: Legends Untold
+2023441812,Eden Genesis
+2023517966,Ctrl Alt Deal
+2023597445,Next of Kin
+2023604348,Hatsune Miku Logic Paint S+
+2023707212,MiceGard
+2023785453,Evan's Remains
+2023873545,Apocalipsis: The Tree of the Knowledge of Good and Evil
+2023942686,Axobubble (Windows)
+2024027777,Surface Rush
+2024046503,60 Seconds! Reatomized
+2024070259,Cube Railway
+2024145056,The Artful Escape
+2024220276,Phantasy Star Online 2 New Genesis
+2024485825,PJ Masks: Heroes of the Night
+2024512616,Obsurity
+2024636675,Vampire: The Masquerade - Coteries of New York
+2024662880,Tour de France 2020
+2024847837,Bee Simulator
+2024976700,Sokmeal Time (Xbox Series X|S)
+2025087313,Demons Are Coming!
+2025103074,Gloom and Doom
+2025132558,Knights of Braveland
+2025181179,F.I.S.T.: Forged In Shadow Torch
+2025192986,Dead Dust
 1297290209,Pinball FX2
 1610689696,Gravity Escape From The Maze
 1613531726,Toybox Escape (XBOX SERIES)
@@ -6815,6 +6893,7 @@
 1667320484,I Hate This Place
 1670910658,Baking Time
 1673402682,Lara Returns to the castle (XBOX SERIES)
+1673784218,One Step After Fall (Windows) (ES)
 1674617666,Pipeline Tycoon
 1675325475,Drop Duchy - Complete Edition
 1677056838,Arcade Archives 2 BOMB JACK TWIN
@@ -6829,7 +6908,6 @@
 1692548778,Big Adventure: Trip To Europe
 1692643519,Cowboys
 1693607283,CASSETTE BOY
-1693978901,Look Mum No Computer
 1694445171,Neural Requiem
 1698017195,Square Smash (Windows)
 1699999089,Talisman: Digital 5th Edition
@@ -6838,14 +6916,12 @@
 1708948752,Finding America: The Heartland Collector's Edition
 1710314584,60 Minutes to Extinction: Escape Room
 1711665703,Foot Clinic
-1712454405,Bubblegum Galaxy
 1714585519,It’s Quiz Time: GUINNESS WORLD RECORDS™ Edition
 1716897739,Sanctum Push (Xbox Series X|S)
 1727107851,Blast Zone! Tournament
 1728837206,KLETKA
 1731389490,Explodera (Windows)
 1731967517,Prison Escape Simulator
-1732434510,SlimeFlip (Xbox Series X/S)
 1733243424,Bus Driving Simulator : EVO
 1733255949,Speedball
 1736645141,Hextreme Void
@@ -6912,7 +6988,6 @@
 1843996291,Mel The Space Cat
 1845944662,Escape the Abyss (XBox Series)
 1850366663,Neon Vault Rush
-1853120691,Gravity Escape From The Maze (win)
 1854216614,Pixapple Adventure
 1856275868,KEJORA
 1856388864,The Monty Mole Collection
@@ -6933,13 +7008,11 @@
 1872209420,Space Adventure : Venus
 1873344466,Lara Returns to the castle (WINDOWS)
 1874146006,Outbreak: Shades of Horror
-1875204712,Celestial Ascend
 1875356086,Explodera (Xbox One)
 1877310417,Pixapple Adventure (Xbox Series)
 1879361470,Xbox Dev Mode
 1882015385,Sugarbound 2 (Windows)
 1883688902,Big Trouble in Little Chimney
-1884622989,Cowboys (Windows)
 1884797299,The 9th Charnel
 1885543318,Lovish
 1886418065,Arcade Archives 2 QUESTER
@@ -7007,96 +7080,16 @@
 2010003462,Frog Hero DX (Windows)
 2010543124,Star Trek: Voyager - Across the Unknown
 2010565039,Space Elite Force II - Reloaded
-2010625736,Space Adventure : Venus (Windows)
 2012395285,Escape the Abyss
 2017428565,ParkingJam
 2017836801,One Button Games 5-in-1 vol. 3 (Windows)
 2019100575,Puzzle Galaxy Xbox Edition
-2020065639,Old Man's Journey
-2020086658,Super Engine GT Turbo SPEC
-2020174486,SEWER QUEST (XBOX SERIES)
-2020174546,Memory Link
-2020175737,Lord of the Click 4 (Xbox One)
-2020176886,Shenmue I & II
-2020192287,Let's Sing 2024
-2020213967,ExZeus: The Complete Collection
-2020422759,The Falconeer
-2020485838,RC Rush
-2020488877,Imagine Earth
-2020500063,TERASLIDE
-2020514432,SBK™22
-2020516215,The Cute Whale (Xbox Series)
-2020561948,Amazing Chicken Adventures
-2020647309,Reposition Defense
-2020732234,Aery - Calm Mind 2
-2020852680,Demon Pit
-2020925056,Grim Dawn: Definitive Edition
-2020925735,Make Way
-2021025006,Slender: The Arrival
-2021058326,Way of the Hunter
-2021059088,Hot Rod Mayhem
-2021123644,Tram Simulator Urban Transit
-2021127339,Gnomes Garden 8: Return of the Queen
-2021132620,Mandragora: Whispers of the Witch Tree
-2021205208,Ancestors Legacy
-2021405472,Nickelodeon Kart Racers 2: Grand Prix
-2021412862,Raft
-2021421406,Green Soldiers Heroes
-2021444410,BPM: Bullets Per Minute
-2021453818,FINAL FANTASY VIII Remastered
-2021467978,Cyanide & Happiness - Freakpocalypse (Episode 1)
-2021629395,Skautfold: Shrouded in Sanity
-2021657763,Nocturnal Whispers
-2021816349,GIGASWORD
-2021825958,RIDE 6
-2021908555,Freshly Frosted
-2021959782,Conan Chop Chop
-2021987250,Downwell
-2022158957,Evasion From Hell
-2022203558,Yuppie Psycho
-2022239352,The Super Penguboy (Windows 10)
-2022302627,Fit and Fry
-2022310556,KreatureKind
-2022315423,Gunsmith Simulator
-2022357971,Monster Energy Supercross - The Official Videogame 4
-2022596914,Avenging Spirit
-2022597828,Garten of Banban 0
-2022727062,oOo: Ascension
-2022775683,Out of Moves
 2022801652,Suika Monsters (Windows)
-2023196561,Witch It
 2023214653,Night Swarm
-2023314060,FINAL FANTASY XII THE ZODIAC AGE
-2023402980,Achilles: Legends Untold
-2023441812,Eden Genesis
-2023517966,Ctrl Alt Deal
-2023597445,Next of Kin
-2023604348,Hatsune Miku Logic Paint S+
-2023707212,MiceGard
-2023785453,Evan's Remains
 2023786030,Sanctum Push (Xbox One)
-2023873545,Apocalipsis: The Tree of the Knowledge of Good and Evil
-2023942686,Axobubble (Windows)
-2024027777,Surface Rush
-2024046503,60 Seconds! Reatomized
-2024070259,Cube Railway
-2024145056,The Artful Escape
-2024220276,Phantasy Star Online 2 New Genesis
-2024485825,PJ Masks: Heroes of the Night
-2024512616,Obsurity
-2024636675,Vampire: The Masquerade - Coteries of New York
-2024662880,Tour de France 2020
-2024847837,Bee Simulator
-2024976700,Sokmeal Time (Xbox Series X|S)
-2025087313,Demons Are Coming!
-2025103074,Gloom and Doom
-2025132558,Knights of Braveland
-2025181179,F.I.S.T.: Forged In Shadow Torch
-2025192986,Dead Dust
 2025399821,ONE PUNCH MAN: A HERO NOBODY KNOWS
 2025493625,Sky Feathers (Xbox Series)
 2025597561,Golden Rails: Valuable Package Collector's Edition
-2025680999,Paper Ghost Stories: Third Eye Open
 2025687845,Monster Prom 3: Monster Roadtrip XXL
 2025742829,Titans Pinball
 2025818872,Shines Over: The Damned
@@ -7246,7 +7239,6 @@
 2034601407,Atrio: The Dark Wild
 2034716130,CAN ANDROIDS PRAY: BLUE
 2034726896,Eden's Last Sunrise
-2034742768,Spellbearers
 2034805164,Polar Bear is Hungry (Xbox One)
 2034901256,Unholy
 2034956980,Warface: Breakout
@@ -7469,7 +7461,6 @@
 2047199918,Isonzo (Windows)
 2047244350,Pawarumi
 2047392824,Panic Porcupine
-2047554233,CASE RECORDS: Fear of Abduction
 2047601430,Truck and Logistics Simulator
 2047633692,The Wizard and The Slug
 2047648027,The Rabbit Crazy Adventure (for Windows 10)
@@ -7877,7 +7868,6 @@
 2075337806,The Valiant
 2075500594,Super Onion Boy+
 2075538596,Serial Cleaners
-2075582658,Milo's Dream
 2075589952,Warhammer 40,000: Boltgun - Windows
 2075703134,Frostpunk
 2075732193,Hovership Havoc
@@ -7967,7 +7957,6 @@
 2079904709,Bloodstained: Ritual of the Night
 2079922713,Out of Moves: Another Try
 2080141972,Aground
-2080159525,AGNI: Village of Calamity
 2080211397,Stardew Valley
 2080258224,Broken Lines
 2080382748,Blade Runner Enhanced Edition
@@ -8003,7 +7992,6 @@
 2082494703,DOUBLE DRAGON Ⅱ: The Revenge
 2082552541,Demolish & Build Classic
 2082615752,Milky Way Prince - The Vampire Star
-2082688974,Risky Woods (QUByte Classics)
 2082736316,Castle Crumble
 2082943224,Lichtspeer: Double Speer Edition
 2082961842,Jujutsu Kaisen Cursed Clash
@@ -8126,7 +8114,6 @@
 2091620971,Remains
 2091623135,Megaparty: A Tootuff Adventure
 2091874206,Neptunia Game Maker R:Evolution
-2091966671,Once Upon a Jester
 2092055351,Yakuza 3 Remastered for Windows 10
 2092107917,Souno's Curse
 2092112354,Monster Jam™ Showdown
@@ -8241,7 +8228,6 @@
 2099681630,SENSHI SOKOBAN QUEST
 2099711760,R.B.I. Baseball 20
 2099729685,Devil Inside Us: Roots of Evil
-2099821471,Rusty Rangers
 2099826853,Kattish
 2099828114,THE FINALS
 2099876954,Big Rumble Boxing: Creed Champions
@@ -8278,7 +8264,6 @@
 2101334292,Pixel Cafe
 2101461383,ACA NEOGEO METAL SLUG for Windows
 2101575871,Bumblebee - Spooky Nights
-2101582025,Rune Crystal: Adventure (WINDOWS)
 2101621133,Call of Duty®: Black Ops II (2012)
 2101636955,Grand Theft Auto V Legacy (PC)
 2101801172,Bot Gaiden
@@ -8418,7 +8403,6 @@
 2111261461,NBA 2K24 for Xbox One
 2111334504,Poly Match
 2111359330,Loan Shark
-2111379233,UDO - Unidentified Drilling Object
 2111437884,Frogo Deluxe
 2111445117,Arcade Spirits: The New Challengers
 2111501553,Little Bear (Xbox Series)
@@ -8486,7 +8470,6 @@
 2115822601,Railbreak
 2115929793,A Memoir Blue
 2115998347,The Drone Racing League Simulator
-2116045375,ACA NEOGEO TOP HUNTER RODDY & CATHY
 2116095486,Care Bears: To The Rescue
 2116180460,Excessive Trim
 2116201950,Cat Herder 2
@@ -8577,7 +8560,6 @@
 2121377538,Lord of the Click 5 (Windows)
 2121427633,Aery - Calm Mind
 2121432568,Tiny Hands Adventure
-2121496095,Owlen and the Spirits of the Past
 2121532136,Once Upon A KATAMARI
 2121552083,I'm in Love With Your Dead Grandmother
 2121565894,Crawlers And Brawlers
@@ -8603,7 +8585,6 @@
 2123573168,Cyber Citizen Shockman 2: A New Menace
 2123754072,Claim the Forest (Xbox One)
 2123860928,Destroy All Humans!
-2124124873,Ultracore
 2124137755,くにおくん ザ・ワールド ～熱血格闘伝説～
 2124383063,Shipwreck Escape
 2124401256,King's Bounty II
@@ -8650,7 +8631,6 @@
 2127006607,Ah, Love! Season 4
 2127064350,Tales from Candleforth
 2127206708,The Tale of Clouds and Wind (QUByte Classics)
-2127220030,Rift Adventure
 2127247278,Thief Simulator 2
 2127251926,Her Story
 2127254728,Jonah Lomu Rugby Challenge 4
@@ -8713,7 +8693,6 @@
 2130889323,Destroy All Humans! 2 - Reprobed: Single Player (X1)
 2130892418,Little Ant Adventure
 2130893948,Ryan's Rescue Squad
-2130932422,Gang Wars - Cards and Bullets
 2131056255,Prizma Puzzle Prime
 2131113207,Röki
 2131152839,Smelter
@@ -8819,7 +8798,6 @@
 2137538060,Little Triangle
 2137647180,LumbearJack
 2137663855,Chip ‘n Clawz vs. The Brainioids
-2137716551,Klaus Lee - Thunderballs
 2137978746,Daniel in Danger
 2137985485,WONDER BOY ASHA in Monster World
 2138066534,Sapu
@@ -8904,7 +8882,6 @@
 2143656879,ACA NEOGEO FOOTBALL FRENZY for Windows
 2143744554,Rooftop Renegade
 2143765838,A Maze Against Time
-2143886711,DIMENSIONS: The Catalyst
 2143923367,Cipher Monk (Xbox One)
 2143993915,Magical Girls vs Cat Aliens (Windows)
 2144204141,Achilles: Survivor
@@ -8953,11 +8930,176 @@
 2147212200,Knowledge, or know Lady
 2147214039,TRIANGLE STRATEGY
 2147412935,Warhammer 40,000: Chaos Gate - Daemonhunters - Windows Edition
+1611490956,Nekomimi Days ~365 Days with You~
+1615223185,Liquor Store Simulator
+1615582038,Arcade Archives 2 ADVENTURE CANOE
+1617919722,SUPER BOMBERMAN COLLECTION
+1618000323,Hidden Cats in Christmas
+1619790969,Minishoot' Adventures
+1625363226,Solar Machina (Windows)
+1627291739,Wizmans World Re:Try
+1628633063,Bomboban (Windows)
+1628932021,Scott Pilgrim EX
 1629487179,FATAL FRAME: Maiden of Black Water
+1629830364,Rayman: 30th Anniversary Edition
+1630011666,Alpacapaca Double Dash (Windows)
+1634310171,Ghetto Zombies: Graffiti Squad
+1639077434,UFOPHILIA
+1645849823,I Wanna Be Car (Windows)
+1648718585,Risky Roads (Windows)
+1650134876,Suika Wan! (Xbox One)
+1658533947,Guess the Flag! - World Flags Quiz
+1670163210,Mole Cart Mining (Xbox Series)
+1676838190,Clue: Murder By Death
+1680615876,HeadHunters
+1681449229,Mini Racer Car Shop Simulator
+1683626268,Sokobear Cave (Xbox One)
+1685707252,Under The Island
+1688544029,Tales of Berseria Remastered
+1692734896,Suika Wan! (Windows)
+1693051227,Meowgic Mix (Xbox Series)
+1693383438,Emoji Battlefield - Island Warfare
+1699651320,Alex the Rabbit
+1700500187,Avenue Escape
+1702440591,The Stairwell
+1708043314,Arcade Archives 2 Rave Racer
+1712798001,King Slime in Cashtle (Windows)
+1715509340,Zoo Clues (Windows)
+1717529908,Sokobear Cave (Windows)
+1717980183,Cryptical Path
+1718370696,City Hunter
+1718932246,Laysara: Summit Kingdom
+1722298034,FoxWolf Saga (Windows)
 1725204742,Poko's Artic Quest (Windows)
+1732309970,Lantern Push (Xbox Series)
+1735433559,Capy Spa (Windows)
+1738465345,FoxWolf Saga (Xbox One)
+1744669474,Epic Empire
+1752484614,Stillborn Slayer
+1754089080,Mortanis Prisoners
+1758661630,Captain Puff MacFly
+1763980451,Golfing Over It with Alva Majo
+1764429873,Sleeping Beauty: Hidden Object Game
+1765162082,Bomboban (Xbox One)
+1770029866,Hummingbird Garden (Xbox Series)
+1770389828,Rune Factory: Guardians of Azuma
+1770956810,Aery - The King's Messenger
+1771024622,FoxWolf Saga (Xbox Series X/S)
+1772553001,Messy Up
+1776347058,Pixel Into the Galaxy
+1776654335,Trainlax
+1786173308,King Slime in Cashtle (Xbox One)
+1789844462,Alex the Rabbit (Xbox Series)
+1790459892,Suika Wan! (Xbox Series X/S)
+1797622038,Wild West Tycoon
+1801459191,Woodturning 3D
 1803856714,Hollowgrace (Windows)
+1804560104,Sudoku Relax
+1804884924,Pixel into the Galaxy (Xbox Series X|S)
+1805862923,Lantern Push (Windows)
+1808985417,Lil Gator Game: Gator of the Year Edition
+1809895054,Solar Machina (Xbox Series X|S)
+1815356911,Trials of Olympus
+1824051810,Zoo Clues
+1829418449,Sands of Aura
+1829560264,One Button Games 5-in-1 vol. 4 (Windows)
+1831080014,BombPaws (Xbox One)
+1838054999,Cute Astro (Xbox One)
+1838587960,Mole Cart Mining (Windows)
+1839403227,BombPaws (Windows)
+1840607912,Meowgic Mix (Windows)
+1841839582,Meowgic Mix (Xbox One)
 1845089422,Beacon of Neyda Demo
+1846898884,Cute Astro (Xbox Series)
+1847393662,PopSlinger Vol. 2 - Loveless
+1857569714,Pixel into the Galaxy (Xbox One)
 1862103007,HOP'N'HOARD (WINDOWS)
+1864051732,Chronicles of Albian 3: The Vanishing Village Collector's Edition
+1865321624,A Winding Path
+1873753548,Alpacapaca Double Dash (Xbox One)
+1874444835,New Yankee: Through the History Mirror Collector's Edition
+1875733322,Little Cat The Lost Key (XBOX ONE)
+1879011441,One Button Games 5-in-1 vol. 4 (Xbox One)
+1880108811,Cute Astro (Windows)
+1881479889,Journey of Johann: Castle Crusade
+1884919373,Soulshard
+1885205020,Cash Cleaner Simulator
+1890290974,Apolune 2
+1890858421,Harvest Cafe
 1898614433,Groaky Must Jump (Windows)
+1899966225,World's End Club
+1906438970,Teeny Tiny Town
+1906559752,Centipede Gun
+1907482514,Speed dates - Winter edition
+1916483299,Alex the Rabbit (Windows)
+1918854602,Mini Golf Quest
+1922347891,Queen’s Garden: French Splendor
+1924006800,Hex Park
+1932915714,Cinemoji Collection
+1933871594,Icy Gifts 2 (Windows)
+1943343947,WorldNeverland - Elnea Kingdom
+1944499569,Showgunners
+1946314519,Starfall Defenders
+1953728881,John Fart : Text-iverse of Crazyness
+1955359934,Icy Gifts 2 (Xbox One)
+1958117717,Bomboban (Xbox Series X|S)
+1961833557,Pogui
+1963071047,Hex Park Windows
+1969906662,MY HERO ACADEMIA: All’s Justice
+1975971367,Capy Spa (Xbox Series)
+1976796591,Dark Quest: Remastered
+1979323707,One Button Games 5-in-1 (Xbox Series)
+1985181757,Hunt the Night
+1987026938,Real Cake Maker
+1988991827,Corner Kitchen Fast Food Simulator
+1989817402,Aquamarine: Explorer's Edition
+1992777385,Little Legs (Windows)
+1993844394,Heart of the Forest
+1995223782,Fox Legend
+1996402369,Jimmy and the Pulsating Mass
+2009034198,Un.Key
+2009264340,Capy Spa (Xbox One)
+2009647441,Hummingbird Garden (Xbox One)
+2012897078,Journey of Johann: Castle Crusade (Xbox One)
+2014034809,I Wanna Be Car
+2014729842,Car For Sale Simulator 2023
+2015865924,Hex Park Series X|S
+2017407966,Zoo Clues (Xbox One)
+2022959529,BombPaws (Xbox Series X/S)
+2025569450,Puzzle Book
+2026432563,Manairons
+2028762421,Solar Machina (Xbox One)
+2028872815,ROMEO IS A DEAD MAN
+2037218487,Outpath
+2038764460,One Button Games 5-in-1 vol. 4
+2039794758,Little Cat The Lost Key
+2041331081,Shopping Mall Girl
+2041908109,LOVE ETERNAL
+2042584762,ChromaGun 2: Dye Hard
+2044200694,Discolored 2
+2051261849,Arcade Archives 2 MEGA ZONE
+2051631353,Little Strays 2
+2055909129,Legacy of Kain: Defiance Remastered
+2056583125,BlazBlue Entropy Effect X
+2056835760,Dark Farts: Parody Smell Edition
+2063745237,Hummingbird Garden (Windows)
 2067777045,Flying Candy (Windows)
+2068322391,Risky Roads
+2073023086,Icy Gifts 2
+2078179538,Backrooms: Poolrooms
+2079273431,Sokobear Cave
+2081776236,I Wanna Be Car (Xbox Series)
+2089046456,Arcade Archives 2 TOP SPEED
+2091426729,Bread & Fred
+2094990948,King Slime in Cashtle (Xbox Series X|S)
+2098748553,Little Legs (Xbox One)
+2099190035,Alpacapaca Double Dash (Xbox Series X/S)
+2106793519,Mole Cart Mining (Xbox One)
 2107397090,Spot The Pup (Windows)
+2110303442,Lantern Push (Xbox One)
+2113498820,Order 13
+2117235022,Little Legs
+2122614052,Carmageddon: Rogue Shift
+2135411688,Little Cat The Lost Key (XBOX XSX)
+2141742892,Deep Space Shooter
+2145916805,From the Bunker
