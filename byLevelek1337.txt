@@ -2036,6 +2036,7 @@
 1711597179,Bee Flowers: Royal Garden
 1711631851,Curse Rounds
 1711793977,Lost Words: Beyond the Page
+1711881307,BEFORE I GO
 1711848972,Geometric Sniper Z
 1711900823,World Championship Boxing Manager™ 2
 1712038382,Mystery Mine
@@ -6084,7 +6085,6 @@
 1755042146,Jelly & Toast
 1755335917,ReSetna
 1756856812,Escape From Crypt
-1757807931,FINAL FANTASY TACTICS - The Ivalice Chronicles
 1757984809,Primal Dungeon Adventure
 1758041918,UNBEATABLE
 1763444345,Aerial_Knight's DropShot
@@ -7705,7 +7705,6 @@
 2063272043,Sky Roll!
 2063398545,Farworld Pioneers
 2063452544,Shootvaders The Beginning
-2063484815,Train Sim World® 6: Free Starter Pack
 2063534995,Pyramids and Aliens: Escape Room
 2063550048,CritterGarden
 2063752537,Drone Gladiator (for Windows 10)
@@ -8514,7 +8513,6 @@
 2117248384,The Mildew Children
 2117248557,Croc's Dynamite Blast
 2117297604,UNABLES
-2117315513,Car for Sale Simulator 2023 - Desktop
 2117394127,Kargast
 2117573270,Cats with Guns (Xbox)
 2117611014,Gallic Wars: Battle Simulator
@@ -9076,7 +9074,6 @@
 2009647441,Hummingbird Garden (Xbox One)
 2012897078,Journey of Johann: Castle Crusade (Xbox One)
 2014034809,I Wanna Be Car
-2014729842,Car For Sale Simulator 2023
 2015839152,Citadelum
 2015865924,Hex Park Series X|S
 2017407966,Zoo Clues (Xbox One)
@@ -9194,7 +9191,6 @@
 1825325261,Zoo Orbs (Xbox One)
 1831906409,Pumpkin Jack (パンプキン・ジャック)
 1833214862,Slide Viking: Treasure's Path (Xbox One)
-1835298427,Minecraft for Apple TV
 1836919057,Temari Trials: Dojo's Test (Xbox Series)
 1836942975,Grind Survivors
 1837608718,Crabwave (Xbox Series)
@@ -9248,7 +9244,6 @@
 2038147675,Cubic Figures
 2041908109,LOVE ETERNAL
 2056835760,Dark Farts: Parody Smell Edition
-2058227981,Thomas & Friends™: Wonders of Sodor
 2069266378,Legendary Spell
 2070638866,RollCats
 2073584562,Defending Camelot - Tower Defense Action
