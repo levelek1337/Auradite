@@ -17,8 +17,7 @@ https://discord.gg/S8QAJjJkxz
 -  Spoof Achievements on Activity Feed (custom date and time, spoof its someone else achievement)
 - ^ including Day One Achievement and other rarest achievements like YouTube
 -  Xbox Party Tool (crash party, unkickable, display to other users your are disconnected or in party chat etc.)
--  View/Create Looking for Group posts
--  Search Clubs
+-  View/Create/Delete Looking for Group posts
 -  Delete All Friends/Posts from Activity Feed
 -  Change/Steal Xbox 360 gamerpics 
 -  Xbox 360 Avatar Stealer
@@ -29,5 +28,6 @@ https://discord.gg/S8QAJjJkxz
 -  Extract Title ID list from Profile
 -  Delete Shit From Title ID list
 -  Store ID to Title ID converter
+-  (paid) Post Custom Screenshots/Video Clips from any game and back in time, yes that includes some of unreleased games like GTA 6 :)
 -  other small options
 
